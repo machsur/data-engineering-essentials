@@ -1,1 +1,3 @@
 
+>> read data from csv file into python list - not recommended these low-level apis (recommends to read schema from text, json, yaml files) - use pandas / pyspark.
+ 
